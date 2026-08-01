@@ -39,3 +39,11 @@
 
 * **Claude Project:** Configured and active under *FLYRANK ML Internship Assistant*.
 * **Anthropic Academy:** Enrolled in *AI Fluency: Framework & Foundations*.
+
+## 3. Tool Verification & Screenshots
+
+### Claude Project Setup
+![Claude Project Setup](./screenshot(215).png)
+
+### Anthropic Academy Completion
+![Anthropic Academy Completion](./screenshot(216).png)
