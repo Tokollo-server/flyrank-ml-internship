@@ -1,3 +1,15 @@
+# 🚀 FlyRank ML Engineering Internship
+
+> **`[Status: Week 1 of 8 — Research Framing & Architecture]`**
+> 
+> *Active Build Log: Documenting model execution and full-stack integration from initial setup through Week 8 completion.*
+
+---
+
+
+
+
+
 # work/ — your space
 
 Everything you build lives here: lane experiments, notebooks, figures, and your capstone
